@@ -4,7 +4,7 @@ Olá! Eu sou o Heitor e este repositório contém meus primeiros projetos desenv
 
 ## 🚀 O que tem aqui:
 
-Neste repositório, organizei 5 exercícios práticos para treinar fundamentos de Python:
+Neste repositório, organizei 5 exercícios práticos para treinar fundamentos de Python e estarei atualizando conforme minha evolução:
 
 * **cadastro_pessoas.py**: Um sistema simples para cadastrar nomes e idades em uma lista e listar os usuários.
 * **sistema_login.py**: Simulação de login com usuário e senha, incluindo limite de tentativas e bloqueio.

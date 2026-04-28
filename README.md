@@ -12,12 +12,6 @@ Olá! Eu sou o Heitor e este repositório contém meus primeiros projetos desenv
 
   Otimização e Performance: list_comprehension_exercicios.py (Filtros e limpeza em uma linha). — 27/04
 
-* **cadastro_pessoas.py**: Um sistema simples para cadastrar nomes e idades em uma lista e listar os usuários.
-* **sistema_login.py**: Simulação de login com usuário e senha, incluindo limite de tentativas e bloqueio.
-* **jogo_adivinhacao.py**: Um jogo onde o computador escolhe um número e o usuário tenta acertar, com tratamento de erros (try/except).
-* **lista_compras.py**: Gerenciador de itens usando funções para adicionar e visualizar produtos.
-* **editar_perfil.py**: Exercício focado em manipulação de dicionários e atualização de dados.
-
 ## 🛠️ Tecnologias
 * Python 3
 * VS Code

@@ -12,6 +12,8 @@ Olá! Eu sou o Heitor e este repositório contém meus primeiros projetos desenv
 
   Otimização e Performance: list_comprehension_exercicios.py (Filtros e limpeza em uma linha). — 27/04
 
+  Contagem e Iteração: enumerate.py (Três projetos: Pódio de atletas, Relatório de estoque e Análise de notas). — 28/04
+
 ## 🛠️ Tecnologias
 * Python 3
 * VS Code

@@ -2,9 +2,15 @@
 
 Olá! Eu sou o Heitor e este repositório contém meus primeiros projetos desenvolvidos durante o curso de lógica de programação.
 
-## 🚀 O que tem aqui:
+📂 O que pratiquei até agora:
 
-Neste repositório, organizei 5 exercícios práticos para treinar fundamentos de Python e estarei atualizando conforme minha evolução:
+  Lógica e Estruturas: sistema_login.py, jogo_adivinhacao.py. — 26/04
+
+  Coleções (Listas/Dicionários): cadastro_pessoas.py, editar_perfil.py. — 26/04
+
+  Modularização (Funções): lista_compras.py. — 26/04
+
+  Otimização e Performance: list_comprehension_exercicios.py (Filtros e limpeza em uma linha). — 27/04
 
 * **cadastro_pessoas.py**: Um sistema simples para cadastrar nomes e idades em uma lista e listar os usuários.
 * **sistema_login.py**: Simulação de login com usuário e senha, incluindo limite de tentativas e bloqueio.

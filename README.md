@@ -14,6 +14,8 @@ Olá! Eu sou o Heitor e este repositório contém meus primeiros projetos desenv
 
   Contagem e Iteração: enumerate.py (Três projetos: Pódio de atletas, Relatório de estoque e Análise de notas). — 28/04
 
+Programação Funcional: map_lambda_exercicios.py (Conversão de dados, formatação de strings e cálculos percentuais). — 29/04
+
 ## 🛠️ Tecnologias
 * Python 3
 * VS Code
